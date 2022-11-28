@@ -29,3 +29,15 @@
 
 >>>> 第四层引用
 
+## Markdown 插入C语言代码块
+
+```c
+	#include<stdio.h>
+	int main()
+	{
+		printf("hello world\n");
+		return 0;
+	}
+```
+
+
