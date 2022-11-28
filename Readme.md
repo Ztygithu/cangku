@@ -53,7 +53,7 @@
 [哔哩哔哩](https://www.bilibili.com "跳转到b站")
 
 ## 在文章中插入图片
-![证件照](C:/Users/张田雨/Desktop)
+![证件照](C:/Users/张田雨/Desktop/zty.jpg)
 
 
 
